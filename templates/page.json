@@ -21,28 +21,22 @@
     "image_with_text_overlay_jWc8Nm": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "heading_hNFTNf": {
+        "heading_WwxFPk": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Un simple maillot. Un impact immense.",
             "heading_tag": "h4"
-          }
-        },
-        "richtext_HzaYdW": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
           }
         }
       },
       "block_order": [
-        "heading_hNFTNf",
-        "richtext_HzaYdW"
+        "heading_WwxFPk"
       ],
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "image_size": "fill",
+        "mobile_image": "shopify://shop_images/UN_BUT_POUR_ZANZIBAR_Votre_story.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -50,7 +44,7 @@
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "scrolling_content_QnKKGf": {
