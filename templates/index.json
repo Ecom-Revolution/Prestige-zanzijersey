@@ -197,27 +197,27 @@
         "card_border_color": "#000000",
         "card_shadow_color": "#000000",
         "card_overlay_color": "#000000",
-        "title_color": "#FFFFFF",
-        "stars_color": "#FFFFFF",
-        "action_color": "#FFFFFF",
-        "action_hover_color": "#FFFFFF",
-        "action_bg_color": "#FFFFFF",
-        "action_bg_hover_color": "#FFFFFF",
-        "action_border_color": "#FFFFFF",
-        "action_border_hover_color": "#FFFFFF",
-        "sound_icon_color": "#FFFFFF",
-        "sound_icon_hover_color": "#FFFFFF",
-        "sound_bg_color": "#FFFFFF",
-        "sound_bg_hover_color": "#FFFFFF",
-        "sound_border_color": "#FFFFFF",
-        "sound_border_hover_color": "#FFFFFF",
-        "arrow_color": "#FFFFFF",
+        "title_color": "#ffffff",
+        "stars_color": "#ffffff",
+        "action_color": "#ffffff",
+        "action_hover_color": "#ffffff",
+        "action_bg_color": "#ffffff",
+        "action_bg_hover_color": "#ffffff",
+        "action_border_color": "#ffffff",
+        "action_border_hover_color": "#ffffff",
+        "sound_icon_color": "#ffffff",
+        "sound_icon_hover_color": "#ffffff",
+        "sound_bg_color": "#ffffff",
+        "sound_bg_hover_color": "#ffffff",
+        "sound_border_color": "#ffffff",
+        "sound_border_hover_color": "#ffffff",
+        "arrow_color": "#ffffff",
         "arrow_hover_color": "#434343",
         "arrow_bg_color": "#434343",
-        "arrow_bg_hover_color": "#FFFFFF",
+        "arrow_bg_hover_color": "#ffffff",
         "arrow_border_color": "#000000",
         "arrow_border_hover_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -306,7 +306,7 @@
             "text": "DÉCOUVRIR LE PROJET",
             "url": "shopify://pages/un-but-pour-zanzibar",
             "background": "#ff4c81",
-            "text_color": "#fff"
+            "text_color": "#ffffff"
           }
         }
       },
@@ -327,62 +327,6 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "overlay_color": "#000000",
         "overlay_opacity": 30
-      }
-    },
-    "multiple-media-with-text": {
-      "type": "multiple-media-with-text",
-      "blocks": {
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "rotation": 0
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "rotation": 0
-          }
-        }
-      },
-      "block_order": [
-        "image-1",
-        "image-2"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "reveal_on_scroll": true,
-        "separate_section_with_border": true,
-        "media_position_desktop": "before_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "About",
-        "title": "Showcase your product",
-        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
-        "button_1_text": "",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "",
-        "button_2_link": "",
-        "button_2_style": "solid"
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "subheading": "Keep me updated",
-        "title": "Newsletter",
-        "content": "<p>A short sentence describing what someone will receive by subscribing.</p>",
-        "button_text": "Subscribe",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "shop-the-look": {
@@ -457,6 +401,270 @@
         "popover_title": "VOIR LE LOOK"
       }
     },
+    "truptpilot_4y7GrD": {
+      "type": "truptpilot",
+      "blocks": {
+        "slide_3jXtze": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Qualité au top, rien à dire",
+            "text": "Franchement, je m’attendais à un maillot basique… mais pas du tout ! Super qualité, la coupe est parfaite, je l’ai déjà lavé deux fois et il n’a pas bougé.",
+            "author_date": "Camille L."
+          }
+        },
+        "slide_kg6jpt": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Grosse surprise à la réception",
+            "text": "Le maillot est encore plus beau en vrai. Je pensais pas kiffer autant, honnêtement.",
+            "author_date": "Yanis B."
+          }
+        },
+        "slide_i6c6dq": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "La taille est parfaite, ça fait plaisir",
+            "text": "J’avais peur que ça tombe large, mais en vrai c’est nickel. Hyper bien coupé, j’adore !",
+            "author_date": "Sophie M."
+          }
+        },
+        "slide_eUJCiR": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Livraison rapide et super rendu",
+            "text": "Reçu en 2 jours, super bien emballé. Le maillot est encore plus beau en vrai, gros coup de cœur.",
+            "author_date": "Élodie B."
+          }
+        },
+        "slide_4XrrjT": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Tellement fière de le porter ❤️",
+            "text": "Franchement, ça fait quelque chose de savoir qu’on aide des projets là-bas juste en s’habillant. Vraiment top.",
+            "author_date": "Manon D."
+          }
+        },
+        "slide_ag99Wj": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Effet garanti dès que je le porte",
+            "text": "Mes amies m’ont direct demandé où je l’avais trouvé. Le style est vraiment original.",
+            "author_date": "Clara R."
+          }
+        },
+        "slide_ciaNWR": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Léger, stylé, validé",
+            "text": "",
+            "author_date": "Anaïs C."
+          }
+        }
+      },
+      "block_order": [
+        "slide_3jXtze",
+        "slide_kg6jpt",
+        "slide_i6c6dq",
+        "slide_eUJCiR",
+        "slide_4XrrjT",
+        "slide_ag99Wj",
+        "slide_ciaNWR"
+      ],
+      "name": "SS - Testimonial #8",
+      "settings": {
+        "heading": "Our customers tell it better than we do!",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
+        "heading_height": 130,
+        "heading_align": "center",
+        "rating_text": "Excellent",
+        "rating_text_custom": false,
+        "rating_text_font": "josefin_sans_n4",
+        "rating_text_size": 24,
+        "rating_text_size_mobile": 20,
+        "rating_text_height": 130,
+        "rating_text_mt": 16,
+        "rating": 4.7,
+        "rating_hide": false,
+        "rating_text_hide": false,
+        "rating_align": "center",
+        "stars_count": 5,
+        "stars_size": 28,
+        "stars_size_mobile": 24,
+        "stars_align": "center",
+        "text": "<p>based on <strong>1 067</strong> reviews</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_align": "center",
+        "text_mt": 16,
+        "slider_width": 80,
+        "slider_view": 3,
+        "slider_view_mobile": 1.2,
+        "slider_gap": 20,
+        "slider_gap_mobile": 20,
+        "slider_mt": 36,
+        "card_padding_vertical": 32,
+        "card_padding_vertical_mobile": 24,
+        "card_padding_horizontal": 40,
+        "card_padding_horizontal_mobile": 24,
+        "card_radius": 16,
+        "card_border_thickness": 0,
+        "card_shadow": true,
+        "card_heading_custom": false,
+        "card_heading_font": "josefin_sans_n4",
+        "card_heading_size": 24,
+        "card_heading_size_mobile": 20,
+        "card_heading_height": 130,
+        "card_heading_align": "center",
+        "card_heading_mt": 16,
+        "card_text_custom": false,
+        "card_text_font": "josefin_sans_n4",
+        "card_text_size": 14,
+        "card_text_size_mobile": 14,
+        "card_text_height": 150,
+        "card_text_align": "center",
+        "card_text_mt": 16,
+        "card_text_more": "View More",
+        "card_text_less": "View Less",
+        "card_count_words": 20,
+        "card_author_date_text_custom": false,
+        "card_author_date_text_font": "josefin_sans_n4",
+        "card_author_date_text_size": 16,
+        "card_author_date_text_size_mobile": 16,
+        "card_author_date_text_height": 130,
+        "card_author_date_text_align": "center",
+        "card_author_date_text_mt": 16,
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
+        "arrow_icon_size": 28,
+        "arrow_icon_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 12,
+        "dots_size_mobile": 12,
+        "dots_show_desktop": false,
+        "dots_show_mobile": false,
+        "button": "View All",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_align": "center",
+        "button_mt": 16,
+        "button_padding_vertical": 20,
+        "button_padding_horizontal": 16,
+        "button_radius": 8,
+        "button_border_thickness": 0,
+        "button_color": "#FFFFFF",
+        "button_hover_color": "#FFFFFF",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "card_bg_color": "#FFFFFF",
+        "card_border_color": "#000000",
+        "card_shadow_color": "#00B67A",
+        "card_heading_color": "#000000",
+        "card_text_color": "#000000",
+        "card_author_date_text_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "#FFFFFF",
+        "arrow_bg_hover_color": "#FFFFFF",
+        "arrow_border_color": "#FFFFFF",
+        "arrow_border_hover_color": "#FFFFFF",
+        "dots_color": "#000000",
+        "heading_color": "#000000",
+        "rating_text_color": "#000000",
+        "stars_bg_color": "#00B67A",
+        "stars_color": "#FFFFFF",
+        "text_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "linear-gradient(180deg, rgba(206, 239, 199, 1), rgba(255, 255, 255, 1) 100%)",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "multiple-media-with-text": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image-1",
+        "image-2"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "About",
+        "title": "Showcase your product",
+        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "subheading": "Keep me updated",
+        "title": "Newsletter",
+        "content": "<p>A short sentence describing what someone will receive by subscribing.</p>",
+        "button_text": "Subscribe",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "blog-posts": {
       "type": "blog-posts",
       "settings": {
@@ -484,6 +692,7 @@
     "featured-collections",
     "image_with_text_overlay_JcAzrD",
     "shop-the-look",
+    "truptpilot_4y7GrD",
     "multiple-media-with-text",
     "newsletter",
     "blog-posts"
