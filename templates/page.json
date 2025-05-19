@@ -83,11 +83,60 @@
         "background": "#1c1c1c",
         "text_color": "#ff4c81"
       }
+    },
+    "testimonials_6HkYHh": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_fdU3BW": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>\" Quand j’ai acheté mon maillot, je voulais juste soutenir une belle cause. Mais quand j’ai reçu les photos du puits que j’avais aidé à financer… j’en ai eu les larmes aux yeux \"</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": "Yanis M."
+          }
+        },
+        "testimonial_3jYAmQ": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>\"<em>C’est la première fois qu’un achat en ligne me fait autant de bien. Voir les enfants sourire, ça n’a pas de prix. Bravo pour cette belle mission.</em>\"</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": "Hakim B."
+          }
+        },
+        "testimonial_8FYmBP": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>\"<em>J’ai commandé un maillot, et j’ai reçu un sentiment d’utilité en retour. On ne fait pas que consommer ici, on construit quelque chose ensemble.</em>\"</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": "Julie P."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_fdU3BW",
+        "testimonial_3jYAmQ",
+        "testimonial_8FYmBP"
+      ],
+      "name": "t:sections.testimonials.presets.testimonials.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "auto_rotate_between_testimonials": false,
+        "cycle_speed": 5,
+        "font_size_factor": 1,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_overlay_jWc8Nm",
-    "scrolling_content_QnKKGf"
+    "scrolling_content_QnKKGf",
+    "testimonials_6HkYHh"
   ]
 }
