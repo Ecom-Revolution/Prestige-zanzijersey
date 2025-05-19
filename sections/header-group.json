@@ -57,12 +57,20 @@
             "item": "LIVRAISON EXPRESS EN FRANCE",
             "item_lnk": ""
           }
+        },
+        "banner_LTn3Pr": {
+          "type": "banner",
+          "settings": {
+            "item": "REJOINS LES VRAIS QUI AGISSENT",
+            "item_lnk": ""
+          }
         }
       },
       "block_order": [
         "banner_ec8GzG",
         "banner_JbhjQc",
-        "banner_Dezf4A"
+        "banner_Dezf4A",
+        "banner_LTn3Pr"
       ],
       "name": "PC- ANNOUCEMENT BAR #1",
       "settings": {
