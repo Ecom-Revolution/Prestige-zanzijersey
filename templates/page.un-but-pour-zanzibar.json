@@ -85,6 +85,36 @@
         "text_color": "#ff4c81"
       }
     },
+    "rich_text_jXmhqa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mkXwM6": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Vous aimez le foot ?</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_yjMUgA": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h5>À Zanzibar, l’eau potable et l’éducation sont des besoins urgents.<br/>Chaque achat finance un puits, une école ou une mosquée.<br/></h5>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mkXwM6",
+        "richtext_yjMUgA"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "testimonials_6HkYHh": {
       "type": "testimonials",
       "blocks": {
@@ -138,6 +168,7 @@
     "main",
     "image_with_text_overlay_jWc8Nm",
     "scrolling_content_QnKKGf",
+    "rich_text_jXmhqa",
     "testimonials_6HkYHh"
   ]
 }
