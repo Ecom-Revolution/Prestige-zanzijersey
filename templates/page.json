@@ -24,7 +24,7 @@
         "heading_WwxFPk": {
           "type": "heading",
           "settings": {
-            "text": "Un simple maillot. Un impact immense.",
+            "text": "",
             "heading_tag": "h4"
           }
         }
@@ -35,8 +35,9 @@
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
         "color_scheme": "scheme-4",
-        "image_size": "fill",
-        "mobile_image": "shopify://shop_images/UN_BUT_POUR_ZANZIBAR_Votre_story.png",
+        "image_size": "auto",
+        "image": "shopify://shop_images/UN_BUT_POUR_ZANZIBAR_1100_x_1500_px_2500_x_900_px.png",
+        "mobile_image": "shopify://shop_images/UN_BUT_POUR_ZANZIBAR_1100_x_1500_px.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
