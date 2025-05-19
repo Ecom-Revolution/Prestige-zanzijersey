@@ -298,15 +298,26 @@
           "settings": {
             "content": "<p>En achetant ton maillot, tu participes à la construction d’écoles, de mosquées et de puits pour les familles à Zanzibar.<br/>Un simple achat, un impact réel.</p>"
           }
+        },
+        "button_hkQtHk": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "DÉCOUVRIR LE PROJET",
+            "url": "shopify://pages/un-but-pour-zanzibar",
+            "background": "#ff4c81",
+            "text_color": "#fff"
+          }
         }
       },
       "block_order": [
         "heading_KKtQWQ",
-        "richtext_EYbgre"
+        "richtext_EYbgre",
+        "button_hkQtHk"
       ],
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "image_size": "auto",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
