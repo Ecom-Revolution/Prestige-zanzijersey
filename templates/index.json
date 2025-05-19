@@ -242,7 +242,7 @@
             "products_count": 8,
             "title": "Homme",
             "link_url": "",
-            "link_text": "View all"
+            "link_text": "VOIR LA COLLECTION"
           }
         },
         "collection_Qa7PYH": {
@@ -252,7 +252,7 @@
             "products_count": 8,
             "title": "Femme",
             "link_url": "",
-            "link_text": "View all"
+            "link_text": "VOIR LA COLLECTION"
           }
         },
         "collection_LMJLPJ": {
@@ -262,7 +262,7 @@
             "products_count": 8,
             "title": "Enfant",
             "link_url": "",
-            "link_text": "View all"
+            "link_text": "VOIR LA COLLECTION"
           }
         }
       },
@@ -283,166 +283,39 @@
         "subheading": "Découvre Nos Maillots Édition Limitée"
       }
     },
-    "collection-list": {
-      "type": "collection-list",
+    "image_with_text_overlay_JcAzrD": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "collection-1": {
-          "type": "collection",
+        "heading_KKtQWQ": {
+          "type": "heading",
           "settings": {
-            "color_scheme": "",
-            "collection": "homme",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "text": "CHAQUE MAILLOT POSE UNE PIERRE POUR ZANZIBAR.",
+            "heading_tag": "h4"
           }
         },
-        "collection-2": {
-          "type": "collection",
+        "richtext_EYbgre": {
+          "type": "richtext",
           "settings": {
-            "color_scheme": "",
-            "collection": "femme",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "enfant",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "content": "<p>En achetant ton maillot, tu participes à la construction d’écoles, de mosquées et de puits pour les familles à Zanzibar.<br/>Un simple achat, un impact réel.</p>"
           }
         }
       },
       "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3"
+        "heading_KKtQWQ",
+        "richtext_EYbgre"
       ],
+      "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
         "image_size": "auto",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": true,
-        "collections_per_row_mobile": "1",
-        "collections_per_row_desktop": 3,
-        "subheading": "Découvre Nos Maillots Édition Limitée",
-        "title": "",
-        "content": ""
-      }
-    },
-    "before-after": {
-      "type": "before-after",
-      "blocks": {
-        "before": {
-          "type": "before",
-          "settings": {
-            "color_scheme": "",
-            "text": "Before",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link"
-          }
-        },
-        "after": {
-          "type": "after",
-          "settings": {
-            "color_scheme": "",
-            "text": "After",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "before",
-        "after"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "cursor_direction": "horizontal",
-        "cursor_initial_position": 50,
-        "cursor_background": "#ffffff",
-        "cursor_arrows_color": "#000000"
-      }
-    },
-    "image-with-text-scroll": {
-      "type": "images-with-text-scroll",
-      "blocks": {
-        "item-1": {
-          "type": "image_with_text",
-          "settings": {
-            "subheading": "",
-            "title": "#1",
-            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        },
-        "item-2": {
-          "type": "image_with_text",
-          "settings": {
-            "subheading": "",
-            "title": "#2",
-            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        },
-        "item-3": {
-          "type": "image_with_text",
-          "settings": {
-            "subheading": "",
-            "title": "#3",
-            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "item-1",
-        "item-2",
-        "item-3"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "image_position": "start",
-        "text_alignment": "center",
-        "heading_tag": "h3",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 30
       }
     },
     "multiple-media-with-text": {
@@ -560,9 +433,7 @@
     "rich_text_XBtGgT",
     "slidervideo_RVpmRp",
     "featured-collections",
-    "collection-list",
-    "before-after",
-    "image-with-text-scroll",
+    "image_with_text_overlay_JcAzrD",
     "multiple-media-with-text",
     "newsletter",
     "shop-the-look",
