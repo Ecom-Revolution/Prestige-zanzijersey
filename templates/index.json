@@ -142,6 +142,7 @@
         "slide_h6QrUQ",
         "slide_DRwMGB"
       ],
+      "disabled": true,
       "name": "SS - Video Slider",
       "settings": {
         "slider_view": 5,
@@ -707,6 +708,7 @@
         "slide_pcWd7t",
         "slide_URy839"
       ],
+      "disabled": true,
       "name": "SS - Testimonial #8",
       "settings": {
         "heading": "Ils en parlent mieux que nous !",
