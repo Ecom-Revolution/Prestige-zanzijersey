@@ -405,17 +405,55 @@
             "product_4_horizontal_position": 85,
             "product_4_vertical_position": 85
           }
+        },
+        "look_3dRdnh": {
+          "type": "look",
+          "settings": {
+            "hot_spots_background": "#ffffff",
+            "product_1": "",
+            "product_1_horizontal_position": 55,
+            "product_1_vertical_position": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 25,
+            "product_2_vertical_position": 40,
+            "product_3": "",
+            "product_3_horizontal_position": 65,
+            "product_3_vertical_position": 60,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        },
+        "look_TyE9zy": {
+          "type": "look",
+          "settings": {
+            "hot_spots_background": "#ffffff",
+            "product_1": "",
+            "product_1_horizontal_position": 55,
+            "product_1_vertical_position": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 25,
+            "product_2_vertical_position": 40,
+            "product_3": "",
+            "product_3_horizontal_position": 65,
+            "product_3_vertical_position": 60,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
         }
       },
       "block_order": [
-        "look-1"
+        "look-1",
+        "look_3dRdnh",
+        "look_TyE9zy"
       ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "subheading": "",
-        "title": "Shop the look",
-        "content": "",
+        "subheading": "Inspire-toi de leur style et choisis le tien.",
+        "title": "Porte-le Comme Les Vrais",
+        "content": "<p>Découvre comment la team porte les maillots ZanziJerseys dans la street.<br/></p>",
         "popover_title": "Shop the look"
       }
     },
