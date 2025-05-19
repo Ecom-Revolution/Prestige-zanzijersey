@@ -20,7 +20,7 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
-            "button_1_text": "Découvrir les Maillots Maintenant",
+            "button_1_text": "Découvrir les Maillots",
             "button_1_link": "",
             "button_1_style": "solid",
             "button_1_background": "#ff4c81",
@@ -138,60 +138,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Disponible pour Homme, Femme et Enfant"
-      }
-    },
-    "multi-column": {
-      "type": "multi-column",
-      "blocks": {
-        "column-1": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "column-2": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "column-3": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-1",
-        "column-2",
-        "column-3"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "columns_per_row": 3,
-        "stack_on_mobile": false,
-        "overlap_image": false,
-        "content_alignment": "start",
-        "text_alignment": "start",
-        "spacing": "md",
-        "subheading": "About",
-        "title": "Multi-column",
-        "content": ""
+        "subheading": "Découvre Nos Maillots Édition Limitée"
       }
     },
     "collection-list": {
@@ -470,7 +417,6 @@
     "slideshow",
     "rich_text_XBtGgT",
     "featured-collections",
-    "multi-column",
     "collection-list",
     "before-after",
     "image-with-text-scroll",
