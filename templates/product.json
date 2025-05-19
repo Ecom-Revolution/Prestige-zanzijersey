@@ -143,10 +143,23 @@
         "title": "Related products",
         "content": ""
       }
+    },
+    "custom_liquid_Tr9HGD": {
+      "type": "custom-liquid",
+      "name": "test taille",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  #linkSizeGuideContainer {\n    text-align: center;\n    margin: 10px 0;\n  }\n\n  #linkSizeGuide {\n    cursor: pointer;\n    color: #000;\n    text-decoration: underline;\n    font-weight: 600;\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    font-size: 16px;\n  }\n\n  #modalSizeGuide {\n    display: none;\n    position: fixed;\n    z-index: 9999;\n    left: 50%;\n    top: 50%;\n    transform: translate(-50%, -50%);\n    background-color: white;\n    border-radius: 8px;\n    width: 90%;\n    max-width: 400px;\n    max-height: 85vh;\n    overflow-y: auto;\n    padding: 10px 15px 15px 15px;\n    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);\n  }\n\n  #modalClose {\n    font-size: 36px;\n    font-weight: bold;\n    color: #333;\n    text-align: right;\n    cursor: pointer;\n    margin-bottom: 10px;\n  }\n\n  .size-guide-table {\n    display: flex;\n    flex-direction: column;\n    gap: 14px;\n  }\n\n  .size-row {\n    border: 1px solid #ddd;\n    padding: 10px;\n    border-radius: 6px;\n    font-weight: bold;\n  }\n\n  .size-row h4 {\n    background-color: #FF4C81;\n    color: white;\n    margin: 0 -10px 10px -10px;\n    padding: 8px 0;\n    text-align: center;\n    border-radius: 6px 6px 0 0;\n  }\n\n  .size-info {\n    display: flex;\n    flex-direction: column;\n    gap: 6px;\n  }\n\n  .size-info-item {\n    display: flex;\n    justify-content: space-between;\n  }\n\n  .size-info-item span:first-child {\n    font-weight: 600;\n    color: #555;\n  }\n\n  @media screen and (max-width: 480px) {\n    .size-row {\n      font-size: 14px;\n      padding: 8px;\n    }\n    .size-info-item {\n      font-size: 13px;\n    }\n  }\n</style>\n\n<!-- Lien cliquable -->\n<div id=\"linkSizeGuideContainer\">\n  <a id=\"linkSizeGuide\">📏 Guide des tailles</a>\n</div>\n\n<!-- Fenêtre modale -->\n<div id=\"modalSizeGuide\">\n  <div id=\"modalClose\">&times;</div>\n  <div class=\"size-guide-table\">\n    <div class=\"size-row\">\n      <h4>M</h4>\n      <div class=\"size-info\">\n        <div class=\"size-info-item\"><span>Poitrine :</span><span>96 - 101 cm</span></div>\n        <div class=\"size-info-item\"><span>Taille :</span><span>80 - 85 cm</span></div>\n        <div class=\"size-info-item\"><span>Longueur :</span><span>68 - 70 cm</span></div>\n      </div>\n    </div>\n    <div class=\"size-row\">\n      <h4>L</h4>\n      <div class=\"size-info\">\n        <div class=\"size-info-item\"><span>Poitrine :</span><span>102 - 107 cm</span></div>\n        <div class=\"size-info-item\"><span>Taille :</span><span>86 - 91 cm</span></div>\n        <div class=\"size-info-item\"><span>Longueur :</span><span>71 - 73 cm</span></div>\n      </div>\n    </div>\n    <div class=\"size-row\">\n      <h4>XL</h4>\n      <div class=\"size-info\">\n        <div class=\"size-info-item\"><span>Poitrine :</span><span>108 - 113 cm</span></div>\n        <div class=\"size-info-item\"><span>Taille :</span><span>92 - 97 cm</span></div>\n        <div class=\"size-info-item\"><span>Longueur :</span><span>74 - 76 cm</span></div>\n      </div>\n    </div>\n    <div class=\"size-row\">\n      <h4>XXL</h4>\n      <div class=\"size-info\">\n        <div class=\"size-info-item\"><span>Poitrine :</span><span>114 - 119 cm</span></div>\n        <div class=\"size-info-item\"><span>Taille :</span><span>98 - 103 cm</span></div>\n        <div class=\"size-info-item\"><span>Longueur :</span><span>77 - 79 cm</span></div>\n      </div>\n    </div>\n  </div>\n</div>\n\n<script>\n  document.getElementById(\"linkSizeGuide\").addEventListener(\"click\", function () {\n    document.getElementById(\"modalSizeGuide\").style.display = \"block\";\n  });\n\n  document.getElementById(\"modalClose\").addEventListener(\"click\", function () {\n    document.getElementById(\"modalSizeGuide\").style.display = \"none\";\n  });\n\n  window.addEventListener(\"keydown\", function (e) {\n    if (e.key === \"Escape\") {\n      document.getElementById(\"modalSizeGuide\").style.display = \"none\";\n    }\n  });\n</script>",
+        "text_alignment": "center"
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "custom_liquid_Tr9HGD"
   ]
 }
