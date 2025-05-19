@@ -888,46 +888,112 @@
         "content": ""
       }
     },
-    "multiple-media-with-text": {
-      "type": "multiple-media-with-text",
+    "featured_product_VE6G4T": {
+      "type": "featured-product",
       "blocks": {
-        "image-1": {
-          "type": "image",
+        "vendor_CGJhJJ": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_TgJQmy": {
+          "type": "title",
           "settings": {
-            "rotation": 0
+            "heading_tag": "h3"
           }
         },
-        "image-2": {
-          "type": "image",
+        "badges_kiGagQ": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_WPcix9": {
+          "type": "price",
           "settings": {
-            "rotation": 0
+            "show_taxes_notice": false
           }
+        },
+        "rating_EDDPXJ": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
+        "payment_terms_DMejjn": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator_HnaLeL": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_epc6Er": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_ExMAG7": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_WrqDKx": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_Ya7AYc": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_hDHiFr": {
+          "type": "pickup_availability",
+          "settings": {}
         }
       },
       "block_order": [
-        "image-1",
-        "image-2"
+        "vendor_CGJhJJ",
+        "title_TgJQmy",
+        "badges_kiGagQ",
+        "price_WPcix9",
+        "rating_EDDPXJ",
+        "payment_terms_DMejjn",
+        "separator_HnaLeL",
+        "description_epc6Er",
+        "variant_picker_ExMAG7",
+        "quantity_selector_WrqDKx",
+        "buy_buttons_Ya7AYc",
+        "pickup_availability_hDHiFr"
       ],
+      "name": "t:sections.featured_product.presets.featured_product.name",
       "settings": {
         "color_scheme": "",
-        "reveal_on_scroll": true,
+        "product": "test",
         "separate_section_with_border": true,
-        "media_position_desktop": "before_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "About",
-        "title": "Showcase your product",
-        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
-        "button_1_text": "",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "",
-        "button_2_link": "",
-        "button_2_style": "solid"
+        "container_size": "lg",
+        "product_info_size": 45,
+        "center_basic_info": false,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "subheading": "",
+        "title": "Featured product",
+        "content": ""
       }
     },
     "newsletter": {
@@ -955,7 +1021,7 @@
     "shop-the-look",
     "truptpilot_4y7GrD",
     "faq_dmpbUf",
-    "multiple-media-with-text",
+    "featured_product_VE6G4T",
     "newsletter"
   ]
 }
