@@ -96,16 +96,38 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "homme",
             "products_count": 8,
-            "title": "",
+            "title": "Homme",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        },
+        "collection_Qa7PYH": {
+          "type": "collection",
+          "settings": {
+            "collection": "femme",
+            "products_count": 8,
+            "title": "Femme",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        },
+        "collection_LMJLPJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "enfant",
+            "products_count": 8,
+            "title": "Enfant",
             "link_url": "",
             "link_text": "View all"
           }
         }
       },
       "block_order": [
-        "collection-1"
+        "collection-1",
+        "collection_Qa7PYH",
+        "collection_LMJLPJ"
       ],
       "settings": {
         "color_scheme": "",
@@ -116,7 +138,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Featured collection"
+        "subheading": "Disponible pour Homme, Femme et Enfant"
       }
     },
     "multi-column": {
@@ -179,7 +201,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "homme",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -195,7 +217,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "femme",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -211,55 +233,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-4": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-5": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-6": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
+            "collection": "enfant",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -275,10 +249,7 @@
       "block_order": [
         "collection-1",
         "collection-2",
-        "collection-3",
-        "collection-4",
-        "collection-5",
-        "collection-6"
+        "collection-3"
       ],
       "settings": {
         "color_scheme": "",
@@ -289,7 +260,7 @@
         "stack_collections": true,
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
-        "subheading": "",
+        "subheading": "Découvre Nos Maillots Édition Limitée",
         "title": "",
         "content": ""
       }
