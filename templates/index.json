@@ -825,7 +825,7 @@
         "stars_color": "#ffffff",
         "text_color": "#000000",
         "background_color": "#ffffff",
-        "background_gradient": "linear-gradient(180deg, rgba(206, 239, 199, 1), rgba(255, 255, 255, 1) 100%)",
+        "background_gradient": "linear-gradient(180deg, rgba(255, 242, 245, 1), rgba(255, 255, 255, 1) 100%)",
         "border_color": "#000000",
         "margin_top": 0,
         "margin_bottom": 0,
