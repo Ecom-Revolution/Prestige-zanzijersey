@@ -840,55 +840,6 @@
         "lazy": true
       }
     },
-    "faq_dmpbUf": {
-      "type": "faq",
-      "blocks": {
-        "category_XVVg9p": {
-          "type": "category",
-          "settings": {
-            "title": "Order",
-            "icon": "none",
-            "icon_width": 16
-          }
-        },
-        "question_4dbab6": {
-          "type": "question",
-          "settings": {
-            "question": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
-          }
-        },
-        "question_NHm6fU": {
-          "type": "question",
-          "settings": {
-            "question": "How long will it take to get my orders?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
-          }
-        },
-        "question_F73b78": {
-          "type": "question",
-          "settings": {
-            "question": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "category_XVVg9p",
-        "question_4dbab6",
-        "question_NHm6fU",
-        "question_F73b78"
-      ],
-      "name": "t:sections.faq.presets.faq.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "show_categories": false,
-        "subheading": "Need help?",
-        "title": "Frequently Asked Questions",
-        "content": ""
-      }
-    },
     "featured_product_VE6G4T": {
       "type": "featured-product",
       "blocks": {
@@ -1011,6 +962,146 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "faq_Nxbrdc": {
+      "type": "faq",
+      "blocks": {
+        "category_iLMMyT": {
+          "type": "category",
+          "settings": {
+            "title": "Livraison",
+            "icon": "picto-delivery-truck",
+            "icon_width": 20
+          }
+        },
+        "question_4rf9UK": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Livrez-vous à l’international ?</strong>",
+            "answer": "<p>Oui, la livraison est gratuite dans le monde entier.</p>"
+          }
+        },
+        "question_Q8tUBa": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Combien de temps prend la livraison ?</strong>",
+            "answer": "<p>Entre 48h à 72 h jours ouvrés selon votre pays. Un suivi vous est envoyé après expédition.</p>"
+          }
+        },
+        "question_gU4YCc": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Comment suivre ma commande ?</strong>",
+            "answer": "<p>Une fois votre commande expédiée, vous recevrez un lien de suivi par email.</p>"
+          }
+        },
+        "category_ep6Xq6": {
+          "type": "category",
+          "settings": {
+            "title": "Tailles & Produits",
+            "icon": "picto-document",
+            "icon_width": 20
+          }
+        },
+        "question_M88kFf": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Comment choisir la bonne taille ?</strong>",
+            "answer": "<p>Consultez notre guide des tailles  pour trouver la coupe parfaite.</p>"
+          }
+        },
+        "question_NzbNYK": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Quels matériaux utilisez-vous ?</strong>",
+            "answer": "<p>Nos maillots sont fabriqués en polyester respirant, léger et résistant, idéal pour le sport ou un usage quotidien.</p>"
+          }
+        },
+        "question_aBHn6Q": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Y aura-t-il de nouveaux modèles ?</strong>",
+            "answer": "<p>Oui, nous lançons régulièrement de nouvelles collections. Abonnez-vous à notre newsletter pour ne rien rater.</p>"
+          }
+        },
+        "category_cH8zTT": {
+          "type": "category",
+          "settings": {
+            "title": "Retours",
+            "icon": "picto-return",
+            "icon_width": 16
+          }
+        },
+        "question_rcacKq": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Puis-je retourner mon maillot ?</strong>",
+            "answer": "<p>Oui, vous avez 7 jours après réception pour demander un échange ou un remboursement si le produit ne vous convient pas. (Le produit ne dois pas être abimé)</p>"
+          }
+        },
+        "question_6zCQJE": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Comment faire un retour ?</strong>",
+            "answer": "<p>Contactez-nous via le formulaire de contact ou par email, nous vous guiderons dans les étapes.</p>"
+          }
+        },
+        "question_PQVNkF": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Le retour est-il gratuit ?</strong>",
+            "answer": "<p>Les frais de retour sont à la charge du client sauf en cas d’erreur de notre part (produit défectueux ou mauvaise taille envoyée).</p>"
+          }
+        },
+        "category_UfQCkr": {
+          "type": "category",
+          "settings": {
+            "title": "<strong> humanitaire</strong>",
+            "icon": "picto-love",
+            "icon_width": 16
+          }
+        },
+        "question_JMEhrW": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Comment mon achat aide-t-il  ?</strong>",
+            "answer": "<p>Une partie de chaque vente finance des projets concrets à Zanzibar : construction de puits, écoles et mosquées.</p>"
+          }
+        },
+        "question_KNV34C": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Puis-je suivre l’évolution des projets ?</strong>",
+            "answer": "<p>Oui ! Nous publions régulièrement des photos, témoignages et avancements des projets sur la page [Un but pour Zanzibar].</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_iLMMyT",
+        "question_4rf9UK",
+        "question_Q8tUBa",
+        "question_gU4YCc",
+        "category_ep6Xq6",
+        "question_M88kFf",
+        "question_NzbNYK",
+        "question_aBHn6Q",
+        "category_cH8zTT",
+        "question_rcacKq",
+        "question_6zCQJE",
+        "question_PQVNkF",
+        "category_UfQCkr",
+        "question_JMEhrW",
+        "question_KNV34C"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "Besoin d'aides ?",
+        "title": "Foire Aux Questions (FAQ)",
+        "content": ""
+      }
     }
   },
   "order": [
@@ -1021,7 +1112,7 @@
     "image_with_text_overlay_JcAzrD",
     "shop-the-look",
     "truptpilot_4y7GrD",
-    "faq_dmpbUf",
+    "faq_Nxbrdc",
     "featured_product_VE6G4T",
     "newsletter"
   ]
