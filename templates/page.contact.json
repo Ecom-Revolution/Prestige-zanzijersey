@@ -148,6 +148,27 @@
             "icon": "picto-return",
             "icon_width": 16
           }
+        },
+        "question_PUQPB6": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Puis-je retourner mon maillot ?</strong>",
+            "answer": "<p>Oui, vous avez 7 jours après réception pour demander un échange ou un remboursement si le produit ne vous convient pas. (Le produit ne dois pas être abimé)</p>"
+          }
+        },
+        "question_aHbMck": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Comment faire un retour ?</strong>",
+            "answer": "<p>Contactez-nous via le formulaire de contact ou par email, nous vous guiderons dans les étapes.</p>"
+          }
+        },
+        "question_6K8RRe": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Le retour est-il gratuit ?</strong>",
+            "answer": "<p>Les frais de retour sont à la charge du client sauf en cas d’erreur de notre part (produit défectueux ou mauvaise taille envoyée).</p>"
+          }
         }
       },
       "block_order": [
@@ -159,7 +180,10 @@
         "question_7JCxfX",
         "question_dr7bpe",
         "question_fqNWgY",
-        "category_Q9XyLt"
+        "category_Q9XyLt",
+        "question_PUQPB6",
+        "question_aHbMck",
+        "question_6K8RRe"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
