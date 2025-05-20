@@ -80,6 +80,64 @@
         "content": ""
       }
     },
+    "faq_8wHf3q": {
+      "type": "faq",
+      "blocks": {
+        "category_xg8AfQ": {
+          "type": "category",
+          "settings": {
+            "title": "Livraison",
+            "icon": "picto-delivery-truck",
+            "icon_width": 20
+          }
+        },
+        "question_4tqCEk": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Livrez-vous à l’international ?</strong>",
+            "answer": "<p>Oui, la livraison est gratuite dans le monde entier.</p>"
+          }
+        },
+        "question_mnWVXD": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Combien de temps prend la livraison ?</strong>",
+            "answer": "<p>Entre 48h à 72 h jours ouvrés selon votre pays. Un suivi vous est envoyé après expédition.</p>"
+          }
+        },
+        "question_GyDXq6": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Comment suivre ma commande ?</strong>",
+            "answer": "<p>Une fois votre commande expédiée, vous recevrez un lien de suivi par email.</p>"
+          }
+        },
+        "category_3Wmrk8": {
+          "type": "category",
+          "settings": {
+            "title": "Livraison",
+            "icon": "picto-delivery-truck",
+            "icon_width": 20
+          }
+        }
+      },
+      "block_order": [
+        "category_xg8AfQ",
+        "question_4tqCEk",
+        "question_mnWVXD",
+        "question_GyDXq6",
+        "category_3Wmrk8"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "Besoin d'aides ?",
+        "title": "Foire Aux Questions (FAQ)",
+        "content": ""
+      }
+    },
     "custom_liquid_qQdfDi": {
       "type": "custom-liquid",
       "disabled": true,
@@ -114,6 +172,7 @@
     "main",
     "image_with_text_rXFrHq",
     "contact-form",
+    "faq_8wHf3q",
     "custom_liquid_qQdfDi",
     "newsletter_LArTtm"
   ]
