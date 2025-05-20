@@ -133,6 +133,21 @@
             "question": "<strong>Quels matériaux utilisez-vous ?</strong>",
             "answer": "<p>Nos maillots sont fabriqués en polyester respirant, léger et résistant, idéal pour le sport ou un usage quotidien.</p>"
           }
+        },
+        "question_fqNWgY": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Y aura-t-il de nouveaux modèles ?</strong>",
+            "answer": "<p>Oui, nous lançons régulièrement de nouvelles collections. Abonnez-vous à notre newsletter pour ne rien rater.</p>"
+          }
+        },
+        "category_Q9XyLt": {
+          "type": "category",
+          "settings": {
+            "title": "Retours",
+            "icon": "picto-return",
+            "icon_width": 16
+          }
         }
       },
       "block_order": [
@@ -142,7 +157,9 @@
         "question_GyDXq6",
         "category_3Wmrk8",
         "question_7JCxfX",
-        "question_dr7bpe"
+        "question_dr7bpe",
+        "question_fqNWgY",
+        "category_Q9XyLt"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
