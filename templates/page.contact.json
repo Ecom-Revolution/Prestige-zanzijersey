@@ -18,23 +18,23 @@
         "page_width": "xs"
       }
     },
-    "rich_text_aqcE6q": {
-      "type": "rich-text",
+    "image_with_text_rXFrHq": {
+      "type": "image-with-text",
       "blocks": {
-        "subheading_tXqjHc": {
+        "subheading_MHdDcU": {
           "type": "subheading",
           "settings": {
             "text": "Une question ? Un retour ? Une demande spéciale ?"
           }
         },
-        "heading_birAnk": {
+        "heading_zgPtzH": {
           "type": "heading",
           "settings": {
             "text": "Nous sommes à votre écoute",
             "heading_tag": "h1"
           }
         },
-        "richtext_wwgHnt": {
+        "richtext_LaTmxE": {
           "type": "richtext",
           "settings": {
             "content": "<p>Écrivez-nous via le formulaire ci-dessous ou contactez-nous via les coordonnées plus bas. </p>"
@@ -42,17 +42,20 @@
         }
       },
       "block_order": [
-        "subheading_tXqjHc",
-        "heading_birAnk",
-        "richtext_wwgHnt"
+        "subheading_MHdDcU",
+        "heading_zgPtzH",
+        "richtext_LaTmxE"
       ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
+        "image": "shopify://shop_images/UN_BUT_POUR_ZANZIBAR_1100_x_1500_px_2.png",
+        "mobile_image": "shopify://shop_images/UN_BUT_POUR_ZANZIBAR_1100_x_1500_px_2.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
         "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
+        "remove_vertical_spacing": true
       }
     },
     "contact-form": {
@@ -107,7 +110,7 @@
   },
   "order": [
     "main",
-    "rich_text_aqcE6q",
+    "image_with_text_rXFrHq",
     "contact-form",
     "custom_liquid_qQdfDi",
     "newsletter_LArTtm"
