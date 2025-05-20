@@ -82,6 +82,7 @@
     },
     "custom_liquid_qQdfDi": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
         "color_scheme": "",
@@ -94,6 +95,7 @@
     },
     "newsletter_LArTtm": {
       "type": "newsletter",
+      "disabled": true,
       "name": "t:sections.newsletter.presets.newsletter.name",
       "settings": {
         "color_scheme": "scheme-1",

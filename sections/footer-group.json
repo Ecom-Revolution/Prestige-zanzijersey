@@ -20,7 +20,7 @@
             "icon": "picto-delivery-truck",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Livraison offerte",
+            "title": "<strong>Livraison offerte</strong>",
             "content": "<p>Livraison gratuite en France</p>"
           }
         },
@@ -30,7 +30,7 @@
             "icon": "picto-return",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Satisfait ou remboursé",
+            "title": "<strong>Satisfait ou remboursé</strong>",
             "content": "<p>Commandez l’esprit léger<br/></p>"
           }
         },
@@ -40,8 +40,8 @@
             "icon": "picto-operator",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Support client d’excellence",
-            "content": "<p>Une question ? Une réponse rapide, humaine et efficace — on est là pour vous.<br/><br/></p>"
+            "title": "<strong>Support client d’excellence</strong>",
+            "content": "<p>Une réponse rapide, humaine et efficace <br/><br/></p>"
           }
         },
         "icon-4": {
@@ -50,8 +50,8 @@
             "icon": "picto-lock",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Paiement sécurisé",
-            "content": "<p>Vos données sont protégées. Transactions 100 % sécurisées via nos partenaires de confiance.<br/><br/></p>"
+            "title": "<strong>Paiement sécurisé</strong>",
+            "content": "<p>Vos données sont protégées. <br/><br/></p>"
           }
         }
       },
@@ -62,11 +62,11 @@
         "icon-4"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": true,
-        "stack_on_mobile": false,
-        "icon_color": "",
-        "text_color": "",
+        "stack_on_mobile": true,
+        "icon_color": "#1c1c1c",
+        "text_color": "rgba(0,0,0,0)",
         "text_alignment": "center"
       }
     },
