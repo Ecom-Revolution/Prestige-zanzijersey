@@ -169,6 +169,28 @@
             "question": "<strong>Le retour est-il gratuit ?</strong>",
             "answer": "<p>Les frais de retour sont à la charge du client sauf en cas d’erreur de notre part (produit défectueux ou mauvaise taille envoyée).</p>"
           }
+        },
+        "category_Rcqx8q": {
+          "type": "category",
+          "settings": {
+            "title": "<strong> humanitaire</strong>",
+            "icon": "picto-love",
+            "icon_width": 16
+          }
+        },
+        "question_hjngWt": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Comment mon achat aide-t-il  ?</strong>",
+            "answer": "<p>Une partie de chaque vente finance des projets concrets à Zanzibar : construction de puits, écoles et mosquées.</p>"
+          }
+        },
+        "question_mKpjfJ": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Puis-je suivre l’évolution des projets ?</strong>",
+            "answer": "<p>Oui ! Nous publions régulièrement des photos, témoignages et avancements des projets sur la page [Un but pour Zanzibar].</p>"
+          }
         }
       },
       "block_order": [
@@ -183,7 +205,10 @@
         "category_Q9XyLt",
         "question_PUQPB6",
         "question_aHbMck",
-        "question_6K8RRe"
+        "question_6K8RRe",
+        "category_Rcqx8q",
+        "question_hjngWt",
+        "question_mKpjfJ"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
