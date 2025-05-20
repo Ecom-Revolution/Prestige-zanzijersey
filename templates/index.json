@@ -22,8 +22,8 @@
             "content_max_width": 780,
             "button_1_text": "Découvrir les Maillots",
             "button_1_link": "",
-            "button_1_style": "solid",
-            "button_1_background": "#ff4c81",
+            "button_1_style": "outline",
+            "button_1_background": "#f1789c",
             "button_1_text_color": "#efefef",
             "button_2_text": "",
             "button_2_link": "",
@@ -303,10 +303,10 @@
         "button_hkQtHk": {
           "type": "button",
           "settings": {
-            "style": "solid",
+            "style": "outline",
             "text": "DÉCOUVRIR LE PROJET",
             "url": "shopify://pages/un-but-pour-zanzibar",
-            "background": "#ff4c81",
+            "background": "#f1789c",
             "text_color": "#ffffff"
           }
         }
