@@ -62,7 +62,7 @@
           "type": "dropdown",
           "settings": {
             "title": "Selectionnez le sujet",
-            "values": "Un problème avec une commande , Demande d'informations , Collaboration, autres"
+            "values": "Un problème avec une commande , Demande d'informations , Collaboration, Autres"
           }
         }
       },
