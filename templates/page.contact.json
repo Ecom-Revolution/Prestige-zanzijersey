@@ -115,9 +115,23 @@
         "category_3Wmrk8": {
           "type": "category",
           "settings": {
-            "title": "Livraison",
-            "icon": "picto-delivery-truck",
+            "title": "Tailles & Produits",
+            "icon": "picto-document",
             "icon_width": 20
+          }
+        },
+        "question_7JCxfX": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Comment choisir la bonne taille ?</strong>",
+            "answer": "<p>Consultez notre guide des tailles  pour trouver la coupe parfaite.</p>"
+          }
+        },
+        "question_dr7bpe": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Quels matériaux utilisez-vous ?</strong>",
+            "answer": "<p>Nos maillots sont fabriqués en polyester respirant, léger et résistant, idéal pour le sport ou un usage quotidien.</p>"
           }
         }
       },
@@ -126,7 +140,9 @@
         "question_4tqCEk",
         "question_mnWVXD",
         "question_GyDXq6",
-        "category_3Wmrk8"
+        "category_3Wmrk8",
+        "question_7JCxfX",
+        "question_dr7bpe"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
