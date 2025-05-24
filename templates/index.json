@@ -15,6 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/XA819256968FR.png",
+            "mobile_image": "shopify://shop_images/Tu.png",
             "subheading": "Chaque maillot que tu portes construit des écoles et des puits à Zanzibar.",
             "title": "Et toi, tu portes quoi… juste un style, ou une cause ?",
             "mobile_text_position": "place-self-center text-center",
